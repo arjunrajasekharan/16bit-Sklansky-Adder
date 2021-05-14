@@ -2,8 +2,7 @@
 16-bit Slansky Adder design using verilog HDL
 
 # Reference Circuit
-
-![Reference_Circuit](https://user-images.githubusercontent.com/60811574/118268087-8e684380-b4da-11eb-86ca-c131a5ed04cf.png)
+<img width="699" alt="Screenshot 2021-05-14 at 17 36 36" src="https://user-images.githubusercontent.com/60811574/118268388-f7e85200-b4da-11eb-9e32-28921671158c.png">
 
 # Output
 - Test Bench
